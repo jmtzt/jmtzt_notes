@@ -40,6 +40,7 @@ baseurl: "/jmtzt_notes" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     github: jmtzt
+    linkedin: joao-marcelo-tozato-0bb7b5144
 
 # Set this to true to get LaTeX math equation support
 use_math: 
